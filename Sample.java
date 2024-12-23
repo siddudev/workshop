@@ -1,7 +1,10 @@
 public class Sample{
     public static void main(String[] args){
+        int n=5;
         System.out.println("hello world");
-        System.out.println("Piyush ");
-        System.out.println("Devashish");
+        System.out.println("Piyush");
+        for (int i = 0; i < n; i++) {
+            System.out.println("dev");
+        }
     }
 }
