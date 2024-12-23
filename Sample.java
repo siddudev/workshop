@@ -6,5 +6,10 @@ public class Sample{
         for (int i = 0; i < n; i++) {
             System.out.println("dev");
         }
+        System.out.println("Piyush ");
+        System.out.println("github");
+        System.out.println("hi");
+
+        System.out.println("merge");
     }
 }
