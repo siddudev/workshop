@@ -3,6 +3,9 @@ public class Sample{
         System.out.println("hello world");
         System.out.println("Navneet Kumar");
         System.out.println("github");
+        System.out.println("hi");
+
         System.out.println("merge");
+
     }
 }
