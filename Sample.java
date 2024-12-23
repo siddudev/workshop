@@ -4,5 +4,8 @@ public class Sample{
         System.out.println("Piyush ");
         System.out.println("github");
         System.out.println("hi");
+
+        System.out.println("merge");
+
     }
 }
